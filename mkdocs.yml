@@ -1,0 +1,12 @@
+site_name: react_django
+site_description: Some Cool APi
+repo_url: https://github.com/TheSaltman/react_django
+site_dir: site
+copyright: Copyright &copy; 2018, <a href="https://github.com/TheSaltman">TheSaltman</a>.
+dev_addr: 0.0.0.0:8002
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
